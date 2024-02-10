@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/likePost/static/css/main.8c16b59c.css",
+    "main.js": "/likePost/static/js/main.c38b0983.js",
+    "index.html": "/likePost/index.html",
+    "main.8c16b59c.css.map": "/likePost/static/css/main.8c16b59c.css.map",
+    "main.c38b0983.js.map": "/likePost/static/js/main.c38b0983.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c16b59c.css",
+    "static/js/main.c38b0983.js"
+  ]
+}
